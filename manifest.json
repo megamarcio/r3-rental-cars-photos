@@ -1,0 +1,286 @@
+{
+  "categorias": {
+    "sedan-mid-size": {
+      "label": "Sedan Mid Size",
+      "hq_id": 3,
+      "modelos": [
+        "toyota-corolla",
+        "toyota-camry",
+        "hyundai-accent",
+        "buick-verano",
+        "dodge-dart",
+        "kia-forte",
+        "kia-optima",
+        "ford-fusion"
+      ],
+      "fotos_categoria": []
+    },
+    "suv-midsize": {
+      "label": "SUV Midsize (Standard)",
+      "hq_id": 8,
+      "modelos": [
+        "hyundai-santa-fe",
+        "honda-odyssey",
+        "jeep-cherokee",
+        "ford-ecosport",
+        "kia-sportage",
+        "vw-taos"
+      ],
+      "fotos_categoria": []
+    },
+    "suv-premium": {
+      "label": "SUV Premium",
+      "hq_id": 5,
+      "modelos": [
+        "vw-atlas",
+        "vw-tiguan",
+        "hyundai-santa-fe",
+        "dodge-durango",
+        "jeep-grand-cherokee",
+        "bmw-x1"
+      ],
+      "fotos_categoria": []
+    },
+    "minivan-7-lugares": {
+      "label": "Minivan 7 lugares",
+      "hq_id": 1,
+      "modelos": [
+        "kia-sedona",
+        "chrysler-pacifica",
+        "chrysler-voyager"
+      ],
+      "fotos_categoria": []
+    },
+    "minivan-8-lugares": {
+      "label": "Minivan 8 lugares",
+      "hq_id": 15,
+      "modelos": [
+        "kia-sedona-8-lugares",
+        "chrysler-pacifica-8-lugares"
+      ],
+      "fotos_categoria": []
+    },
+    "suv-full-size-luxo": {
+      "label": "SUV Full Size Luxo (7-8 lugares Premium)",
+      "hq_id": 17,
+      "modelos": [
+        "ford-expedition",
+        "chevrolet-suburban",
+        "dodge-durango"
+      ],
+      "fotos_categoria": []
+    },
+    "conversivel": {
+      "label": "Conversivel (Mustang/Camaro)",
+      "hq_id": 10,
+      "modelos": [
+        "mustang-conversivel",
+        "camaro-conversivel"
+      ],
+      "fotos_categoria": []
+    },
+    "suv-familia-6-lugares": {
+      "label": "SUV Familia 6 Lugares",
+      "hq_id": null,
+      "modelos": [
+        "atlas",
+        "traverse",
+        "expedition",
+        "tiguan",
+        "dodge-durango"
+      ],
+      "fotos_categoria": []
+    },
+    "truck": {
+      "label": "Truck (Camionete)",
+      "hq_id": null,
+      "modelos": [
+        "dodge-ram-1500"
+      ],
+      "fotos_categoria": []
+    },
+    "eletricos": {
+      "label": "Eletricos",
+      "hq_id": null,
+      "modelos": [
+        "tesla-model-3",
+        "cybertruck"
+      ],
+      "fotos_categoria": []
+    }
+  },
+  "carros_por_categoria": {
+    "sedan-mid-size": {
+      "toyota-corolla": {
+        "label": "Toyota Corolla",
+        "fotos": []
+      },
+      "toyota-camry": {
+        "label": "Toyota Camry",
+        "fotos": []
+      },
+      "hyundai-accent": {
+        "label": "Hyundai Accent",
+        "fotos": []
+      },
+      "buick-verano": {
+        "label": "Buick Verano",
+        "fotos": []
+      },
+      "dodge-dart": {
+        "label": "Dodge Dart",
+        "fotos": []
+      },
+      "kia-forte": {
+        "label": "Kia Forte",
+        "fotos": []
+      },
+      "kia-optima": {
+        "label": "Kia Optima",
+        "fotos": []
+      },
+      "ford-fusion": {
+        "label": "Ford Fusion",
+        "fotos": []
+      }
+    },
+    "suv-midsize": {
+      "hyundai-santa-fe": {
+        "label": "Hyundai Santa Fe",
+        "fotos": []
+      },
+      "honda-odyssey": {
+        "label": "Honda Odyssey",
+        "fotos": []
+      },
+      "jeep-cherokee": {
+        "label": "Jeep Cherokee",
+        "fotos": []
+      },
+      "ford-ecosport": {
+        "label": "Ford Ecosport",
+        "fotos": []
+      },
+      "kia-sportage": {
+        "label": "Kia Sportage",
+        "fotos": []
+      },
+      "vw-taos": {
+        "label": "Vw Taos",
+        "fotos": []
+      }
+    },
+    "suv-premium": {
+      "vw-atlas": {
+        "label": "Vw Atlas",
+        "fotos": []
+      },
+      "vw-tiguan": {
+        "label": "Vw Tiguan",
+        "fotos": []
+      },
+      "hyundai-santa-fe": {
+        "label": "Hyundai Santa Fe",
+        "fotos": []
+      },
+      "dodge-durango": {
+        "label": "Dodge Durango",
+        "fotos": []
+      },
+      "jeep-grand-cherokee": {
+        "label": "Jeep Grand Cherokee",
+        "fotos": []
+      },
+      "bmw-x1": {
+        "label": "Bmw X1",
+        "fotos": []
+      }
+    },
+    "minivan-7-lugares": {
+      "kia-sedona": {
+        "label": "Kia Sedona",
+        "fotos": []
+      },
+      "chrysler-pacifica": {
+        "label": "Chrysler Pacifica",
+        "fotos": []
+      },
+      "chrysler-voyager": {
+        "label": "Chrysler Voyager",
+        "fotos": []
+      }
+    },
+    "minivan-8-lugares": {
+      "kia-sedona-8-lugares": {
+        "label": "Kia Sedona 8 Lugares",
+        "fotos": []
+      },
+      "chrysler-pacifica-8-lugares": {
+        "label": "Chrysler Pacifica 8 Lugares",
+        "fotos": []
+      }
+    },
+    "suv-full-size-luxo": {
+      "ford-expedition": {
+        "label": "Ford Expedition",
+        "fotos": []
+      },
+      "chevrolet-suburban": {
+        "label": "Chevrolet Suburban",
+        "fotos": []
+      },
+      "dodge-durango": {
+        "label": "Dodge Durango",
+        "fotos": []
+      }
+    },
+    "conversivel": {
+      "mustang-conversivel": {
+        "label": "Mustang Conversivel",
+        "fotos": []
+      },
+      "camaro-conversivel": {
+        "label": "Camaro Conversivel",
+        "fotos": []
+      }
+    },
+    "suv-familia-6-lugares": {
+      "atlas": {
+        "label": "Atlas",
+        "fotos": []
+      },
+      "traverse": {
+        "label": "Traverse",
+        "fotos": []
+      },
+      "expedition": {
+        "label": "Expedition",
+        "fotos": []
+      },
+      "tiguan": {
+        "label": "Tiguan",
+        "fotos": []
+      },
+      "dodge-durango": {
+        "label": "Dodge Durango",
+        "fotos": []
+      }
+    },
+    "truck": {
+      "dodge-ram-1500": {
+        "label": "Dodge Ram 1500",
+        "fotos": []
+      }
+    },
+    "eletricos": {
+      "tesla-model-3": {
+        "label": "Tesla Model 3",
+        "fotos": []
+      },
+      "cybertruck": {
+        "label": "Cybertruck",
+        "fotos": []
+      }
+    }
+  }
+}
