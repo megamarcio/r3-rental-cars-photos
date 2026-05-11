@@ -1,24 +1,11 @@
-# Carros por Categoria
+# Carros por Categoria — Packs (hero/cover)
 
-Fotos genericas/hero por categoria (1 foto representativa de cada categoria, nao por modelo).
+Imagens "pack" representando categorias inteiras (composicao com varios modelos).
+Usadas como hero/cover em emails, posts, banners — quando se quer mostrar a
+categoria como um todo, nao um modelo especifico.
 
-Use essas fotos quando quiser mostrar a categoria como um todo (ex: banner no topo de email, card unico no lugar de 3 carros, capa de campanha).
+Cada arquivo PNG aqui tem nome no formato:
+`<categoria>-<Modelo1>-<Modelo2>-...png`
 
-## Estrutura
-
-Cada categoria do manifest.json deve ter sua pasta aqui:
-
-```
-carros_categoria/
-  sedan-mid-size/
-  suv-midsize/
-  suv-premium/
-  minivan-7-lugares/
-  minivan-8-lugares/
-  suv-full-size-luxo/
-  conversivel/
-  truck/
-  eletricos/
-```
-
-Dentro de cada pasta, coloque 1-3 fotos representativas da categoria.
+Categorias com packs: conversivel, minivan-7-lugares, sedan-mid-size,
+suv-full-size-luxo, suv-midsize, suv-premium.
